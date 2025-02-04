@@ -26,11 +26,11 @@ Bachelor's degree in Graphic Design.
 
 # Tech skills
 * Test Automation
-* Cypress,
+* Cypress
 * Jira
 * JavaScript
 * SQL
-* Artificial Intelligence (AI)
+* Artificial Intelligence (ChatGPT)
 * Visual Studio Code
 * Postman
 * Software testing
@@ -45,6 +45,9 @@ Bachelor's degree in Graphic Design.
 * Multitasking
 * Writing skills
 * Communication
+
+# Projects
+* My Cypress project - [E2E-Cypress](https://github.com/grettjott/E2E-Cypress)
 
 
   
