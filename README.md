@@ -26,7 +26,10 @@ Bachelor's degree in Graphic Design.
 
 # Tech skills
 * Test Automation
-* Cypress, Jira, JavaScript, SQL
+* Cypress,
+* Jira
+* JavaScript
+* SQL
 * Artificial Intelligence (AI)
 * Visual Studio Code
 * Postman
