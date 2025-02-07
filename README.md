@@ -48,6 +48,7 @@ Bachelor's degree in Graphic Design.
 
 # Projects
 * My Cypress project - [E2E-Cypress](https://github.com/grettjott/E2E-Cypress)
+* Manual testing - 
 
 
   
