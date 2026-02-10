@@ -9,7 +9,7 @@ With experience in branding, social media, and packaging design, I'm now shiftin
 
 [My Linkedin profile](https://www.linkedin.com/in/grejot/)
 
-[My CV](https://drive.google.com/file/d/1uR4gHvGDMNf8sAzFZaJ5pNIPXJlrJFdD/view?usp=sharing)
+[My CV](https://drive.google.com/file/d/1gXJVVC5bJhKxs8s0oYz42HeQdvZHSN4I/view?usp=sharing)
 
 # Education
 **2024 August - October, 304-hour course**
